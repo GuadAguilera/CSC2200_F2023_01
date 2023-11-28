@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="95a60cfb-4e8c-447e-830c-01b690c37c41" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="95a60cfb-4e8c-447e-830c-01b690c37c41" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,6 +13,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 1
+}]]></component>
   <component name="ProjectId" id="2XBblbhXueLMgUL5fmt5ztENOsk" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -25,6 +26,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
     "last_opened_file_path": "C:/Users/dlash/Documents/GitHub/CSC2200_F2023_01",
     "vue.rearranger.settings.migration": "true"
   }
@@ -44,6 +46,7 @@
       <workItem from="1698430311349" duration="14000" />
       <workItem from="1698689588831" duration="15000" />
       <workItem from="1699557037519" duration="1447000" />
+      <workItem from="1701195752118" duration="9000" />
     </task>
     <servers />
   </component>
